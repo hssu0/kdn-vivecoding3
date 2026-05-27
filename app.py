@@ -108,7 +108,7 @@ with left_col:
   <ul style='line-height:2.1;color:#cfd8dc;padding-left:1.2rem;'>
     <li>🏢 <strong style='color:#e0f7fa'>소속</strong>: 한전KDN (한전KDN)</li>
     <li>🏷️ <strong style='color:#e0f7fa'>부서</strong>: 미터링시스템부</li>
-    <li>📌 <strong style='color:#e0f7fa'>담당</strong>: 전력 계량 시스템 운영 및 개발</li>
+    <li>📌 <strong style='color:#e0f7fa'>담당</strong>: AMI 신재생 모니터링 시스템 운영 및 개발</li>
     <li>🎯 <strong style='color:#e0f7fa'>목표</strong>: AI·데이터 기술로 스마트한 전력망 구현</li>
     <li>💡 <strong style='color:#e0f7fa'>관심사</strong>: 바이브코딩, 데이터 분석, 자동화</li>
   </ul>
