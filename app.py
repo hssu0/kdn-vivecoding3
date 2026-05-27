@@ -81,7 +81,7 @@ st.markdown(f"""
     한전KDN · 미터링시스템부</p>
   {badge("⚡ 전력 IT 전문가","#1976d2","#0d47a1")}
   {badge("📊 데이터 분석","#0288d1","#01579b")}
-  {badge("🌐 웹 개발","#00838f","#006064")}
+  {badge("🌐 엔진 개발","#00838f","#006064")}
   {badge("🤖 AI 활용","#6a1b9a","#4a148c")}
   <p style='color:#b0bec5;font-size:0.95rem;line-height:1.8;margin-top:1.2rem;'>
     안녕하세요! 한전KDN 미터링시스템부에서 근무 중인 <strong style='color:#e0f7fa'>허수영</strong>입니다.<br>
