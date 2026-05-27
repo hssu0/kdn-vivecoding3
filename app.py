@@ -187,7 +187,7 @@ with b1:
 <div style='{CARD} text-align:center;'>
   {section_title("🎭", "성격 유형")}
   <p style='font-size:2.2rem;margin:0.3rem 0;'>🧩</p>
-  <p style='font-size:1.5rem;font-weight:800;color:#80deea;margin:0.2rem 0;'>ISFJ</p>
+  <p style='font-size:1.5rem;font-weight:800;color:#80deea;margin:0.2rem 0;'>ISTP</p>
   <p style='color:#b0bec5;font-size:0.88rem;margin-top:0.4rem;'>
     책임감 강하고 꼼꼼한<br>팀플레이어
   </p>
