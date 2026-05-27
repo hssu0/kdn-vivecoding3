@@ -35,14 +35,12 @@ kdn-vivecoding3/
 - 📅 경력 타임라인
 - 📬 연락처
 - 🎭 성격 · 관심사 · 한마디 카드
-- 🎬 Lottie 애니메이션 (선택적)
 
 ## 🛠️ 기술 스택
 
 - **Python 3.10+**
 - **Streamlit** — 메인 프레임워크
-- **streamlit-lottie** — 애니메이션
-- **requests** — Lottie JSON 로드
+- **requests** — HTTP 요청
 
 ---
 
