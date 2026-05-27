@@ -76,7 +76,7 @@ st.markdown(f"""
   <p style='font-size:2.6rem;font-weight:800;
      background:linear-gradient(90deg,#00c6ff,#0072ff);
      -webkit-background-clip:text;-webkit-text-fill-color:transparent;
-     margin-bottom:0.2rem;'>🙋 허수영</p>
+     margin-bottom:0.2rem;'>허수영</p>
   <p style='font-size:1.1rem;color:#90caf9;margin-bottom:0.9rem;'>
     한전KDN · 미터링시스템부</p>
   {badge("⚡ 전력 IT 전문가","#1976d2","#0d47a1")}
@@ -106,7 +106,7 @@ with left_col:
 <div style='{CARD}'>
   {section_title("👤", "나를 소개합니다")}
   <ul style='line-height:2.1;color:#cfd8dc;padding-left:1.2rem;'>
-    <li>🏢 <strong style='color:#e0f7fa'>소속</strong>: 한국전력KDN (한전KDN)</li>
+    <li>🏢 <strong style='color:#e0f7fa'>소속</strong>: 한전KDN (한전KDN)</li>
     <li>🏷️ <strong style='color:#e0f7fa'>부서</strong>: 미터링시스템부</li>
     <li>📌 <strong style='color:#e0f7fa'>담당</strong>: 전력 계량 시스템 운영 및 개발</li>
     <li>🎯 <strong style='color:#e0f7fa'>목표</strong>: AI·데이터 기술로 스마트한 전력망 구현</li>
@@ -171,7 +171,7 @@ with right_col:
   {contact_row("📧 개인 메일", "heoeo9587@gmail.com")}
   {contact_row("🐙 GitHub",
       '<a href="https://github.com/hssu0" style="color:#64b5f6;text-decoration:none;">github.com/hssu0</a>')}
-  {contact_row("🏢 소속", "한국전력KDN · 미터링시스템부")}
+  {contact_row("🏢 소속", "한전KDN · 미터링시스템부")}
 </div>
 """, unsafe_allow_html=True)
 
